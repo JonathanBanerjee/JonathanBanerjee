@@ -28,8 +28,11 @@
 
 ### Tutorial Profiles:
 
-  <a href="https://www.khanacademy.org/profile/JonathanBanerjee/projects"><img src="https://img.shields.io/twitter/url?color=grey&label=Khan%20Academy&logo=Khan%20Academy&style=for-the-badge&url=https%3A%2F%2Fwww.khanacademy.org%2Fprofile%2FJonathanBanerjee%2Fprojects" height=25></a>
-   <a href="https://www.freecodecamp.org/JonathanBanerjee"><img src="https://img.shields.io/twitter/url?color=grey&label=freeCodeCamp&logo=freeCodeCamp&style=for-the-badge&url=https%3A%2F%2Fwww.freecodecamp.org%2Fjonathanbanerjee" height=25></a>
+  <a href="https://www.khanacademy.org/profile/JonathanBanerjee/projects"><img src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white" height=25></a>
+   <a href="https://www.freecodecamp.org/JonathanBanerjee"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" height=25></a>
+      <a href="https://www.codewars.com/users/JonathanBanerjee"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" height=25></a>
+
+
 
 
 ### Outside of coding, I like to:
