@@ -22,7 +22,7 @@
 
 <br>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanBanerjee&layout=compact&theme=dark)](https://github.com/JonathanBanerjee/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanBanerjee&layout=compact&theme=dark)](https://github.com/JonathanBanerjee/github-readme-stats)
 
 
 
@@ -42,6 +42,7 @@
 > - Read 📚 (Currently reading: Cal Newport - So Good They Can't Ignore You)
 
 
-### Social Media
-<a href="jonathan.h.banerjee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+
+#### Social Media
+<a href="mailto:jonathan.h.banerjee@gmail.com?subject=Hello Jonathan!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 <a href="https://www.twitter.com/jonathanbano"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
