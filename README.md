@@ -30,7 +30,7 @@
  *  <a href="http://footie-calc.herokuapp.com">Calculate Football Scores Using Mathematical Models</a>
 
 
-### Tutorial Profiles:
+### Tutorial Profiles
 
   <a href="https://www.khanacademy.org/profile/JonathanBanerjee/projects"><img src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white" height=25></a>
    <a href="https://www.freecodecamp.org/JonathanBanerjee"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" height=25></a>
