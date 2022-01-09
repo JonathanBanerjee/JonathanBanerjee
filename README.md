@@ -25,7 +25,7 @@
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanBanerjee&layout=compact&theme=dark)](https://github.com/JonathanBanerjee/github-readme-stats)
  -->
 
-### Projects
+###Notable Projects
   At University: 
  *  <a href="http://footie-calc.herokuapp.com">Calculate Football Scores Using Mathematical Models</a>
 
