@@ -22,15 +22,14 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanBanerjee&layout=compact&theme=dark)](https://github.com/JonathanBanerjee/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanBanerjee&layout=compact&theme=dark)](https://github.com/JonathanBanerjee/github-readme-stats) -->
 
 
 
 ### Tutorial Profiles:
 
-  <code><img height= "30" alt="Khan Academy"  src="https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/ae/a4/3c/aea43cf8-9c5f-ddb0-d488-1acafbbfcd5a/source/1000x1000bb.jpg"></code> [Khan Academy](https://www.khanacademy.org/profile/JonathanBanerjee/projects)
-
-  <code><img height= "20" alt="FreeCodeCamp"  src="https://clipground.com/images/freecodecamp-logo-1.png"></code> [FreeCodeCamp](https://www.freecodecamp.org/JonathanBanerjee)
+  <a href="https://www.khanacademy.org/profile/JonathanBanerjee/projects"><img src="https://img.shields.io/twitter/url?color=grey&label=Khan%20Academy&logo=Khan%20Academy&style=for-the-badge&url=https%3A%2F%2Fwww.khanacademy.org%2Fprofile%2FJonathanBanerjee%2Fprojects" height=25></a>
+   <a href="https://www.freecodecamp.org/JonathanBanerjee"><img src="https://img.shields.io/twitter/url?color=grey&label=freeCodeCamp&logo=freeCodeCamp&style=for-the-badge&url=https%3A%2F%2Fwww.freecodecamp.org%2Fjonathanbanerjee" height=25></a>
 
 
 ### Outside of coding, I like to:
@@ -41,7 +40,5 @@
 
 
 ### Social Media
-  <code><img height="20" alt="Email" src="https://pngmind.com/wp-content/uploads/2019/08/Email-Logo-Png-Transparent-Background.jpg"></code> [Email](jonathan.h.banerjee@gmail.com) 
-
- <code><img height="20" alt="Twitter" src="https://logos-download.com/wp-content/uploads/2016/02/Twitter_Logo_new.png"></code> 
-[Twitter](https://www.twitter.com/jonathanbano)
+<a href="jonathan.h.banerjee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="https://www.twitter.com/jonathanbano"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
