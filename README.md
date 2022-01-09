@@ -39,7 +39,7 @@
 
 
 
-### Outside of coding, I like to:
+#### Outside of coding, I like to:
 
 > - Play, follow and study football ⚽️ - AFC Camden, Watford Supporter, FPL Player.
 > - Meditate 🧘🏽‍♂️
