@@ -1,7 +1,7 @@
 ## Hi, I'm Jonathan, a software developer based in London.
 
 - 💻 I'm passionate about building scalable and reliable applications.
-- 🌎 I'm can AWS Certified Cloud and British Computing Society Certified Practitioner.
+- 🌎 I'm an AWS Cloud and BCS Certified Practitioner.
 - 🎓 I have recently graduated from the Open University in Computing and IT. 
 
 ### Some of my favourite technologies: 
