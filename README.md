@@ -49,3 +49,4 @@
 #### Contact Me
 <a href="mailto:jonathan.h.banerjee@gmail.com?subject=Hello Jonathan!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 <a href="https://www.twitter.com/jonathanbano"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/jonathan-banerjee-7086b322b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
