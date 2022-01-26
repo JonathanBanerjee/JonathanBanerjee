@@ -1,4 +1,4 @@
-## Hi, I'm Jonathan, a software developer based in London.
+## Hi, I'm Jonathan, a cloud engineer and software developer based in London.
 
 - 💻 I'm passionate about building scalable and reliable applications.
 - 🌎 I'm an AWS Cloud and BCS Certified Practitioner.
