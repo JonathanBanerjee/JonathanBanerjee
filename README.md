@@ -42,7 +42,7 @@
 
 > - Play, follow and study football ⚽️ - AFC Camden, Watford Supporter, FPL Player.
 > - Meditate 🧘🏽‍♂️
-> - Read 📚 (Currently reading: Cal Newport - So Good They Can't Ignore You)
+> - Read 📚 (Currently reading: Cal Newport - Deep Work)
 
 
 
