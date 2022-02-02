@@ -2,7 +2,7 @@
 
 - 💻 I'm passionate about building scalable and reliable applications.
 - 🌎 I'm an AWS Cloud and BCS Certified Practitioner.
-- 🎓 I have recently graduated from the Open University in Computing and IT. 
+- 🎓 I am an Open University Computing and IT graduate. 
 
 ### Some of my favourite technologies: 
 
