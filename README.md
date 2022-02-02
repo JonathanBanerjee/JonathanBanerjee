@@ -29,7 +29,7 @@
  *  <a href="http://footie-calc.herokuapp.com">Calculate Football Scores Using Mathematical Models</a>
 
 Cloud Computing Project (in progress):
-* <a href="https://github.com/JonathanBanerjee/PremScraper">PL top scorers in a docker container and soon to be hosted in an AWS ECR</a>
+* <a href="https://github.com/JonathanBanerjee/PremScraper">PL top scorers stored in a docker container and soon to be hosted in an AWS ECR</a>
 
 
 
