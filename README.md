@@ -29,9 +29,6 @@
  *  <a href="http://footie-calc.herokuapp.com">Calculate Football Scores Using Mathematical Models</a>
 
 
-### Currently learning
- *  How to host a dockerfile in AWS. 
-
 ### Tutorial Profiles
 
   <a href="https://www.khanacademy.org/profile/JonathanBanerjee/projects"><img src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white" height=25></a>
