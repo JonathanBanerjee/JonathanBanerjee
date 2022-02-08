@@ -45,7 +45,7 @@ Cloud Computing Projects (in progress):
 
 #### Outside of coding, I like to:
 
-> - Play, follow and study football ⚽️ - AFC Camden, Watford Supporter, FPL Player.
+> - Play, follow and study football ⚽️ - Watford Supporter, AFC Camden and FPL Player.
 > - Meditate 🧘🏽‍♂️
 > - Read 📚 (Currently reading: Cal Newport - Deep Work)
 
