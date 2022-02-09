@@ -1,8 +1,8 @@
 ## Hi, I'm Jonathan, a cloud engineer and software developer based in London.
 
-- 💻 I'm passionate about building scalable and reliable applications.
-- 🌎 I'm an AWS Cloud and BCS Certified Practitioner.
-- 🎓 I am an Open University Computing and IT graduate. 
+- 💻 I am passionate about building scalable and reliable applications.
+- 🌎 I am an AWS Cloud and BCS Certified Practitioner.
+- 🎓 I am an Open University Computing and IT graduate.
 
 ### Some of my favourite technologies: 
 
