@@ -28,7 +28,7 @@
   Open University Final Year Project: 
  *  <a href="http://footie-calc.herokuapp.com">Calculate Football Scores Using Mathematical Models</a>
 
-Cloud Computing Projects (in progress):
+Cloud Computing Projects:
 * <a href="https://github.com/JonathanBanerjee/PremScraper">DevOps AWS CI/CD Pipeline to automate testing. 
 * <a href="https://github.com/JonathanBanerjee/Apollo-server-lamba-nodejs">DevOps AWS CloudFormation Project to deploy create a GraphQL API using AWS Lambda. 
 
