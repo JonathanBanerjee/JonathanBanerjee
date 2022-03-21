@@ -1,4 +1,5 @@
 ## Hi, I'm Jonathan, a DevOps engineer and software developer based in London.
+## I currently work as a Business IT Administrator for Seedrs.
 
 - 💻 I am passionate about building scalable and reliable applications.
 - 🌎 I am an AWS Cloud and BCS Certified Practitioner.
