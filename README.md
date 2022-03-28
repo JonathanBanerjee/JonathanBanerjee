@@ -50,7 +50,7 @@ DevOps CI/CD Project:
 
 > - Play, follow and study football ⚽️ - Watford Supporter, AFC Camden and FPL Player.
 > - Meditate 🧘🏽‍♂️
-> - Read 📚 (Currently reading: Cal Newport - Deep Work)
+> - Read 📚 (Currently reading:)
 
 
 
