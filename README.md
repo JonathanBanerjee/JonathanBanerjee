@@ -50,7 +50,7 @@ DevOps CI/CD Project:
 
 > - Play, follow and study football ⚽️ - Watford Supporter, AFC Camden and FPL Player.
 > - Meditate 🧘🏽‍♂️
-> - Read 📚 (Currently reading:)
+> - Read/study 📚 (Currently studying: Bash Mastery: The Complete Guide to Bash Shell Scripting)
 
 
 
