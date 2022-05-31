@@ -1,5 +1,4 @@
-## Hi, I'm Jonathan, a DevOps engineer and software developer based in London. <img align='right' src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="120">
-
+## Hi, I'm Jonathan, a DevOps engineer and software developer based in London. 
 
  - 🌱 I currently work as a Business IT Administrator for Seedrs.
  - 💻 I am passionate about building scalable and reliable applications.
@@ -27,6 +26,8 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanbanerjee&layout=compact&theme=dark)](https://github.com/jonathanbanerjee/github-readme-stats)
+<img align='right' src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="120">
+
 
 ### Notable Projects
   Open University Final Year Project: 
