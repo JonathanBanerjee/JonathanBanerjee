@@ -15,7 +15,7 @@
 <code><img height="40" alt="HTML" src="https://mpng.subpng.com/20180802/tpl/kisspng-logo-html5-brand-clip-art-杉-山-良-雄-5b62be01b565d5.334247781533197825743.jpg"></code>
 <code><img height="40" alt="CSS" src="https://logonoid.com/images/css3-logo.png"></code>
 <code><img height="40" alt="AWS" src="https://pngimage.net/wp-content/uploads/2020/02/aws-logo-png-4.png"></code>
-<code><img height="40" alt="OpenStack" src="https://logos-download.com/wp-content/uploads/2016/10/OpenStack_logo.png"></code>
+<code><img height="40" alt="Bash" src="https://dwglogo.com/wp-content/uploads/2019/03/1800px-gnu_bash_logo-1024x705.png"></code>
 <code><img height="40" alt="Linux" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code>
 <code><img height="40" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="40" alt="Express" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
@@ -29,8 +29,11 @@
 <img align='left' src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="220">
 
 
+### DevOps Projects 
 
-
+- [Bash Script to generate public SSH keys](https://github.com/JonathanBanerjee/venkman)
+- [Running a linux service on a Virtual Machine](https://github.com/JonathanBanerjee/suzuki)
+- [Containerization of a Wordle (W.I.P)](https://github.com/JonathanBanerjee/wordle)
 
 ### Tutorial Profiles
 
