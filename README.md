@@ -1,7 +1,6 @@
-## Hi, I'm Jonathan, a DevOps engineer and software developer based in London. 
+## Hi, I'm Jonathan, a DevOps engineer based in London. 
 
  - 🌱 I currently work as a Business IT Administrator for Seedrs.
- - 💻 I am passionate about building scalable and reliable applications.
  - 🌎 I am an AWS Cloud and BCS Certified Practitioner.
  - 🎓 I am an Open University Computing and IT graduate.
 
@@ -50,7 +49,7 @@
 
 > - Play, follow and study football ⚽️ - Watford Supporter, AFC Camden and FPL Player.
 > - Meditate 🧘🏽‍♂️
-> - Read/study 📚 (Currently studying: Bash Mastery: The Complete Guide to Bash Shell Scripting)
+> - Read/study 📚 (Currently studying: Adrian Cantrill's AWS Associate SysOps Admin Course)
 
 
 
