@@ -32,7 +32,7 @@
 
 - [Bash Script to generate public SSH keys](https://github.com/JonathanBanerjee/venkman)
 - [Running a linux service on a Virtual Machine](https://github.com/JonathanBanerjee/suzuki)
-- [Containerization of a Wordle (W.I.P)](https://github.com/JonathanBanerjee/wordle)
+- [Containerization of a Wordle Application (W.I.P)](https://github.com/JonathanBanerjee/wordle)
 
 ### Tutorial Profiles
 
