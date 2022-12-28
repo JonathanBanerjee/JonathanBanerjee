@@ -33,7 +33,7 @@
 - [Bash Script to generate public SSH keys](https://github.com/JonathanBanerjee/venkman)
 - [Running a linux service on a Virtual Machine](https://github.com/JonathanBanerjee/suzuki)
 - [Containerization of a Wordle Application](https://github.com/JonathanBanerjee/wordle)
-- [ELK Stack (Proof of concept](https://github.com/JonathanBanerjee/aether)
+- [ELK Stack (Proof of concept)](https://github.com/JonathanBanerjee/aether)
 
 ### Tutorial Profiles
 
