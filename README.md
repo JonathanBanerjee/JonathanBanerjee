@@ -50,7 +50,9 @@
 
 > - Play, follow and study football ⚽️ - Watford Supporter, AFC Camden and FPL Player.
 > - Meditate 🧘🏽‍♂️
-> - Read/study 📚 (Currently studying: Adrian Cantrill's AWS Associate SysOps Admin Course)
+> - Read/study 📚 (Currently studying: Automate the Boring Stuff with Python) 
+
+<a href="https://automatetheboringstuff.com"><img src="https://www.akademika.no/sites/default/files/styles/product_zoom/public/product_images/978/1/5/9/3/2/7/9781593275990.jpg?itok=tMbK-iwp" height=200></a>
 
 
 
