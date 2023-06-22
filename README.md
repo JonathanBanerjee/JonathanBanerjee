@@ -35,12 +35,12 @@
 - [Containerization of a Wordle Application](https://github.com/JonathanBanerjee/wordle)
 - [ELK Stack (Proof of concept)](https://github.com/JonathanBanerjee/aether)
 
-### Tutorial Profiles
+<!-- ### Tutorial Profiles -->
 
-  <a href="https://www.khanacademy.org/profile/JonathanBanerjee/projects"><img src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white" height=25></a>
+<!-- <a href="https://www.khanacademy.org/profile/JonathanBanerjee/projects"><img src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white" height=25></a>
    <a href="https://www.freecodecamp.org/JonathanBanerjee"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" height=25></a>
    <a href="https://www.codewars.com/users/JonathanBanerjee"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" height=25></a>
-    <a href="https://www.hackerrank.com/jonathanbanerjee"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height=25></a>
+    <a href="https://www.hackerrank.com/jonathanbanerjee"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height=25></a> -->
  
 
 
