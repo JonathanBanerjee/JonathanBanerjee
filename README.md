@@ -26,6 +26,27 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanbanerjee&layout=compact&theme=dark)](https://github.com/jonathanbanerjee/github-readme-stats)
 <img align='left' src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="220">
 
+### Software Engineering projects
+
+[List Shop Save](https://listshopsave.uk/)
+
+**Tech Used: Front-end / Back-end:** React, Redux, GSAP, SCSS / Node.js, Express.js, MySQL 
+
+**What it Does:** Compares supermarket prices and displays the cheapest price.
+
+**What It Demonstrates:** This was a group project, meaning version control and managing pull requests and merge conflicts were crucial. The menu section enables a user to enter ingredients and it will display recipes for the ingredients entered by using the Spoonacular API. 
+The map section enables the user to find local supermarkets nearby using the Open Street Maps API. 
+The search section enables a user to search for items individually, which will display the cheapest price for these items. These items have been web scraped  from Supermarket websites and stored in a SQL database in the backend. The camera in this section uses a plugin called Quagga, which enables the user to scan barcodes. 
+
+
+[What Three Letters](https://what-three-letters.netlify.app/)
+
+
+**Tech Used: Front-end / Back-end** :  React, SASS / Node.js
+  
+**What it Does:** Teaches children how to read and spell 3 letter words. 
+
+**What It Demonstrates:** This was a group project built over an 8 hour hackathon. The wordlist is stored as an object in a JSON file, each object containing the word as well as an image. The application makes use of speech to text recognition, which enables a user to hear the words and letters audibly. This can be done either by entering a letter or clicking on the logo. The user also has the option to receive a maximum of 2 hints, where letters are removed using a split function. 
 
 ### DevOps Projects 
 
@@ -49,9 +70,9 @@
 
 > - Play, follow and study football ⚽️ - Watford Supporter, AFC Camden and FPL Player.
 > - Meditate 🧘🏽‍♂️
-> - Read/study 📚 (Currently studying: Automate the Boring Stuff with Python) 
+> - Read/study 📚 (Currently reading: A world without email by Cal Newport) 
 
-<a href="https://automatetheboringstuff.com"><img src="https://www.akademika.no/sites/default/files/styles/product_zoom/public/product_images/978/1/5/9/3/2/7/9781593275990.jpg?itok=tMbK-iwp" height=200></a>
+<a href="https://calnewport.com/a-world-without-email/"><img src="https://calnewport.com/wp-content/uploads/2021/01/email-cover-400px.jpg" height=200></a>
 
 
 
