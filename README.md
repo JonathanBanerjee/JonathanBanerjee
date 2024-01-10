@@ -1,6 +1,5 @@
-## Hi, I'm Jonathan, a Software Engineer based in London. 
+## Hi, I'm Jonathan, a Full-Stack Software Engineer based in London. 
 
- - 🌱 I currently work at Seedrs.
  - 🌎 I am an AWS Cloud and BCS Certified Practitioner.
  - 🎓 I am an Open University Computing and IT graduate.
 
