@@ -3,6 +3,10 @@
  - 🌎 I am an AWS Cloud and BCS Certified Practitioner.
  - 🎓 I am an Open University Computing and IT graduate.
 
+#### Contact Me
+<a href="mailto:jonathan.h.banerjee@gmail.com?subject=Hello Jonathan!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/jonathan-banerjee-7086b322b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+
 
 
 ### Some of my favourite technologies: 
@@ -75,9 +79,5 @@ The search section enables a user to search for items individually, which will d
 <a href="https://calnewport.com/a-world-without-email/"><img src="https://calnewport.com/wp-content/uploads/2021/01/email-cover-400px.jpg" height=200></a>
 
 
-
-#### Contact Me
-<a href="mailto:jonathan.h.banerjee@gmail.com?subject=Hello Jonathan!"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/jonathan-banerjee-7086b322b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 
 
