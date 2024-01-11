@@ -59,7 +59,7 @@ The search section enables a user to search for items individually, which will d
 
 **What It Demonstrates:** This was a group project built over an 8 hour hackathon. The wordlist is stored as an object in a JSON file, each object containing the word as well as an image. The application makes use of speech to text recognition, which enables a user to hear the words and letters audibly. This can be done either by entering a letter or clicking on the logo. The user also has the option to receive a maximum of 2 hints, where letters are removed using a split function. 
 
-### DevOps Projects 
+### DevOps Projects:
 
 - [Bash Script to generate public SSH keys](https://github.com/JonathanBanerjee/venkman)
 - [Running a linux service on a Virtual Machine](https://github.com/JonathanBanerjee/suzuki)
