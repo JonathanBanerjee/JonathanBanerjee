@@ -22,7 +22,7 @@
 <code><img height="40" alt="SASS" src="https://sass-lang.com/assets/img/logos/logo.svg"></code>
 <code><img height="40" alt="AWS" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"></code>
 <code><img height="40" alt="Bash" src="https://dwglogo.com/wp-content/uploads/2019/03/1800px-gnu_bash_logo-1024x705.png"></code>
-
+<code><img height="40" alt="Docker" src="https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg"></code>
 <!-- <code><img height="40" alt="postgresql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="40" alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
  <code><img height="40" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
