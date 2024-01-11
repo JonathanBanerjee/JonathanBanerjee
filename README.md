@@ -9,7 +9,7 @@
 
 
 
-### Some of my favourite technologies: 
+### Front-End JavaScript:
 
 <br>
 
@@ -20,6 +20,8 @@
 <code><img height="40" alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
 <code><img height="40" alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
 <code><img height="40" alt="SASS" src="https://sass-lang.com/assets/img/logos/logo.svg"></code>
+
+### DevOps:
 <code><img height="40" alt="AWS" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"></code>
 <code><img height="40" alt="Bash" src="https://dwglogo.com/wp-content/uploads/2019/03/1800px-gnu_bash_logo-1024x705.png"></code>
 <code><img height="40" alt="Docker" src="https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg"></code>
