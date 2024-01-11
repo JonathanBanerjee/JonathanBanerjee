@@ -9,7 +9,7 @@
 
 
 
-### Front-End JavaScript:
+### Front-End:
 
 <br>
 
