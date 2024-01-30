@@ -35,7 +35,7 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanbanerjee&layout=compact&theme=dark)](https://github.com/jonathanbanerjee/github-readme-stats)
-<img align='left' src='https://github.com/JonathanBanerjee/JonathanBanerjee/assets/69357901/f1ea6582-177c-4e3e-90ed-92dbb175f943' alt='Jonathan' width='163'>
+<img align='left' src='https://www.thereactivedeveloper.com/assets/hero-me-dark.gif' alt='Jonathan' width='163'>
 
 
 ### Development projects:
