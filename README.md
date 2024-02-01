@@ -47,6 +47,8 @@ Most Recent:
 
 **Tech Used: Front-end :** HTML SCSS/CSS. 
 
+**Repository:** [Spotify Repository](https://github.com/JonathanBanerjee/spotify)
+
 **What it Does:** Hommage project to replicate the CSS SASS used on the Spotify Website
 
 **What It Demonstrates:** This demonstrates the ability to visually replicate a website using CSS when given a 
@@ -58,6 +60,8 @@ Most Recent:
 ## List Shop Save
 
 **Tech Used: Front-end / Back-end:** React, Redux, GSAP, SCSS / Node.js, Express.js, MySQL 
+
+**Repository:** (Private) [ListShopSave Repository](https://github.com/russell-gh/ft4-shop-app)
 
 **What it Does:** Compares supermarket prices and displays the cheapest price.
 
@@ -71,6 +75,8 @@ The search section enables a user to search for items individually, which will d
 
 
 **Tech Used: Front-end / Back-end** :  React, SASS / Node.js
+
+**Repository:** [What Three Letters Repository](https://github.com/Gunnar50/what-three-letters)
   
 **What it Does:** Teaches children how to read and spell 3 letter words. 
 
