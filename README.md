@@ -40,7 +40,7 @@
 
 ### Development projects:
 
-[List Shop Save](https://listshopsave.uk/)
+List Shop Save
 
 **Tech Used: Front-end / Back-end:** React, Redux, GSAP, SCSS / Node.js, Express.js, MySQL 
 
