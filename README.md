@@ -41,7 +41,7 @@
 ### Development projects:
 
 Most Recent:
-## [Spotify Replica](https://jonathan-spotify.netlify.app)
+## [Spotify Replica](https://https://jonathan-spotify.netlify.app)
 <img width="600" alt="Screenshot 2024-02-01 at 12 49 37" src="https://github.com/JonathanBanerjee/JonathanBanerjee/assets/69357901/081e83a0-9958-45a4-bde8-2c7de3d54203">
 
 
@@ -49,9 +49,9 @@ Most Recent:
 
 **Repository:** [Spotify Repository](https://github.com/JonathanBanerjee/spotify)
 
-**What it Does:** Hommage project to replicate the CSS SASS used on the Spotify Website
+**What it Does:** Hommage project to replicate the CSS SASS used on the Spotify Website. 
 
-**What It Demonstrates:** This demonstrates the ability to visually replicate a website using CSS when given a 
+**What It Demonstrates:** This demonstrates the ability to visually replicate a website using CSS when given a design provided. Making use of tools such as the PerfectPixel extension and DevTools enabled me to replicate the CSS properties used on the Spotify website. 
 
 
 
