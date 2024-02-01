@@ -40,7 +40,22 @@
 
 ### Development projects:
 
-List Shop Save
+Most Recent:
+## [Spotify Replica](https://https://jonathan-spotify.netlify.app)
+<img width="600" alt="Screenshot 2024-02-01 at 12 49 37" src="https://github.com/JonathanBanerjee/JonathanBanerjee/assets/69357901/081e83a0-9958-45a4-bde8-2c7de3d54203">
+
+
+**Tech Used: Front-end :** HTML SCSS/CSS. 
+
+**What it Does:** Hommage project to replicate the CSS SASS used on the Spotify Website
+
+**What It Demonstrates:** This demonstrates the ability to visually replicate a website using CSS when given a 
+
+
+
+
+
+## List Shop Save
 
 **Tech Used: Front-end / Back-end:** React, Redux, GSAP, SCSS / Node.js, Express.js, MySQL 
 
@@ -51,7 +66,8 @@ The map section enables the user to find local supermarkets nearby using the Ope
 The search section enables a user to search for items individually, which will display the cheapest price for these items. These items have been web scraped  from Supermarket websites and stored in a SQL database in the backend. The camera in this section uses a plugin called Quagga, which enables the user to scan barcodes. 
 
 
-[What Three Letters](https://what-three-letters.netlify.app/)
+## [What Three Letters](https://what-three-letters.netlify.app/)
+<img width="600" alt="Screenshot 2024-02-01 at 12 51 22" src="https://github.com/JonathanBanerjee/JonathanBanerjee/assets/69357901/792d7930-a459-4ffe-97da-4c661f102ea3">
 
 
 **Tech Used: Front-end / Back-end** :  React, SASS / Node.js
