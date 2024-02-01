@@ -41,7 +41,7 @@
 ### Development projects:
 
 Most Recent:
-## [Spotify Replica](https:jonathan-spotify.netlify.app)
+## [Spotify Replica](https://jonathan-spotify.netlify.app)
 <img width="600" alt="Screenshot 2024-02-01 at 12 49 37" src="https://github.com/JonathanBanerjee/JonathanBanerjee/assets/69357901/081e83a0-9958-45a4-bde8-2c7de3d54203">
 
 
