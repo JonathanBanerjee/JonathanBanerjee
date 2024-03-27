@@ -41,6 +41,20 @@
 ### Development projects:
 
 Most Recent:
+Most Recent:
+## [FairWeather Application](https://fairweather.netlify.app)
+<img width="322" alt="Screenshot 2024-03-27 at 15 02 19" src="https://github.com/JonathanBanerjee/JonathanBanerjee/assets/69357901/0356fba8-38ae-497b-92a2-3cab15f7d68e">
+
+
+**Tech Used: Front-end :** HTML, JavaScript, CSS
+
+**Repository:** [FairWeather Repository](https://github.com/JonathanBanerjee/fair-weather)
+
+**What it Does:** Displays the weather to the user, either by searching or geolocating the user.  
+
+**What It Demonstrates:** This demonstrates the ability to use fundamental JavaScript, making use of tools such as axios to make API calls and DOM manipulation. 
+
+
 ## [Spotify Replica](https://jonathan-spotify.netlify.app)
 <img width="600" alt="Screenshot 2024-02-01 at 12 49 37" src="https://github.com/JonathanBanerjee/JonathanBanerjee/assets/69357901/081e83a0-9958-45a4-bde8-2c7de3d54203">
 
