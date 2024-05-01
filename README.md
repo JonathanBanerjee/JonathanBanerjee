@@ -41,7 +41,6 @@
 ### Development projects:
 
 Most Recent:
-Most Recent:
 ## [FairWeather Application](https://fairweather.netlify.app)
 <img width="322" alt="Screenshot 2024-03-27 at 15 02 19" src="https://github.com/JonathanBanerjee/JonathanBanerjee/assets/69357901/0356fba8-38ae-497b-92a2-3cab15f7d68e">
 
