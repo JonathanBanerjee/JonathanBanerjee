@@ -42,7 +42,7 @@
 
 Most Recent:
 ## [FairWeather Application](https://fairweather.netlify.app)
-<img width="322" alt="Screenshot 2024-03-27 at 15 02 19" src="https://github.com/JonathanBanerjee/JonathanBanerjee/assets/69357901/0356fba8-38ae-497b-92a2-3cab15f7d68e">
+<!-- <img width="322" alt="Screenshot 2024-03-27 at 15 02 19" src="https://github.com/JonathanBanerjee/JonathanBanerjee/assets/69357901/0356fba8-38ae-497b-92a2-3cab15f7d68e"> -->
 
 
 **Tech Used: Front-end :** HTML, JavaScript, CSS
@@ -55,7 +55,7 @@ Most Recent:
 
 
 ## [Spotify Replica](https://jonathan-spotify.netlify.app)
-<img width="600" alt="Screenshot 2024-02-01 at 12 49 37" src="https://github.com/JonathanBanerjee/JonathanBanerjee/assets/69357901/081e83a0-9958-45a4-bde8-2c7de3d54203">
+<!-- <img width="600" alt="Screenshot 2024-02-01 at 12 49 37" src="https://github.com/JonathanBanerjee/JonathanBanerjee/assets/69357901/081e83a0-9958-45a4-bde8-2c7de3d54203"> -->
 
 
 **Tech Used: Front-end :** HTML SCSS/CSS. 
@@ -84,7 +84,7 @@ The search section enables a user to search for items individually, which will d
 
 
 ## [What Three Letters](https://what-three-letters.netlify.app/)
-<img width="600" alt="Screenshot 2024-02-01 at 12 51 22" src="https://github.com/JonathanBanerjee/JonathanBanerjee/assets/69357901/792d7930-a459-4ffe-97da-4c661f102ea3">
+<!-- <img width="600" alt="Screenshot 2024-02-01 at 12 51 22" src="https://github.com/JonathanBanerjee/JonathanBanerjee/assets/69357901/792d7930-a459-4ffe-97da-4c661f102ea3"> -->
 
 
 **Tech Used: Front-end / Back-end** :  React, SASS / Node.js
