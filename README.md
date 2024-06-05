@@ -15,7 +15,6 @@
 
 <code><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></code>
-<code><img height="40" alt="Redux" src="https://redux.js.org/img/redux.svg"></code>
 <code><img height="40" alt="Vite" src="https://vitejs.dev/logo-with-shadow.png"></code>
 <code><img height="40" alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
 <code><img height="40" alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
