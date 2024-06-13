@@ -37,26 +37,21 @@
 <img align='left' src='https://www.thereactivedeveloper.com/assets/hero-me-dark.gif' alt='Jonathan' width='163'>
 
 
-### Dev projects:
+### Developer projects:
 
-#### CSS
+- [Air Checker](airchecker.netlify.app) (My latest project)
+- [Tic-Tac-Toe](https://react-noughtsandcrosses.netlify.app)
+- [What Three Letters](https://what-three-letters.netlify.app/)
+- [FairWeather Application](https://fairweather.netlify.app)
+- [To-Do's](https://todosforme.netlify.app)
 - [Spotify Replica](https://jonathan-spotify.netlify.app)
 - [Gallery of Noisy](https://noisygallery.netlify.app)
 
-#### JS & CSS
-- [FairWeather Application](https://fairweather.netlify.app)
-- [To-Do's](https://todosforme.netlify.app)
 
 
 
-#### React/Redux/Vite
-- [Tic-Tac-Toe](https://react-noughtsandcrosses.netlify.app)
-- [What Three Letters](https://what-three-letters.netlify.app/)
-- [Air Checker](airchecker.netlify.app) (My latest project)
 
-
-
-### DevOps Projects:
+### Developer Operations Projects:
 
 - [Bash Script to generate public SSH keys](https://github.com/JonathanBanerjee/venkman)
 - [Running a linux service on a Virtual Machine](https://github.com/JonathanBanerjee/suzuki)
