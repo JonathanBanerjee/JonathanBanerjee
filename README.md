@@ -37,62 +37,24 @@
 <img align='left' src='https://www.thereactivedeveloper.com/assets/hero-me-dark.gif' alt='Jonathan' width='163'>
 
 
-### Development projects:
+### Dev projects:
 
-Most Recent:
-## [FairWeather Application](https://fairweather.netlify.app)
-<!-- <img width="322" alt="Screenshot 2024-03-27 at 15 02 19" src="https://github.com/JonathanBanerjee/JonathanBanerjee/assets/69357901/0356fba8-38ae-497b-92a2-3cab15f7d68e"> -->
+#### CSS
+- [Spotify Replica](https://jonathan-spotify.netlify.app)
+- [Gallery of Noisy](https://noisygallery.netlify.app)
 
-
-**Tech Used: Front-end :** HTML, JavaScript, CSS
-
-**Repository:** [FairWeather Repository](https://github.com/JonathanBanerjee/fair-weather)
-
-**What it Does:** Displays the weather to the user, either by searching or geolocating the user.  
-
-**What It Demonstrates:** This demonstrates the ability to use fundamental JavaScript, making use of tools such as axios to make API calls and DOM manipulation. 
-
-
-## [Spotify Replica](https://jonathan-spotify.netlify.app)
-<!-- <img width="600" alt="Screenshot 2024-02-01 at 12 49 37" src="https://github.com/JonathanBanerjee/JonathanBanerjee/assets/69357901/081e83a0-9958-45a4-bde8-2c7de3d54203"> -->
-
-
-**Tech Used: Front-end :** HTML SCSS/CSS. 
-
-**Repository:** [Spotify Repository](https://github.com/JonathanBanerjee/spotify)
-
-**What it Does:** Hommage project to replicate the CSS SASS used on the Spotify Website. 
-
-**What It Demonstrates:** This demonstrates the ability to visually replicate a website using CSS when given a design provided. Making use of tools such as the PerfectPixel extension and DevTools enabled me to replicate the CSS properties used on the Spotify website. 
+#### JS & CSS
+- [FairWeather Application](https://fairweather.netlify.app)
+- [To-Do's](https://todosforme.netlify.app)
 
 
 
+#### React/Redux/Vite
+- [Tic-Tac-Toe](https://react-noughtsandcrosses.netlify.app)
+- [What Three Letters](https://what-three-letters.netlify.app/)
+- [Air Checker](airchecker.netlify.app) (My latest project)
 
 
-## List Shop Save
-
-**Tech Used: Front-end / Back-end:** React, Redux, GSAP, SCSS / Node.js, Express.js, MySQL 
-
-**Repository:** (Private) [ListShopSave Repository](https://github.com/russell-gh/ft4-shop-app)
-
-**What it Does:** Compares supermarket prices and displays the cheapest price.
-
-**What It Demonstrates:** This was a group project, meaning version control and managing pull requests and merge conflicts were crucial. The menu section enables a user to enter ingredients and it will display recipes for the ingredients entered by using the Spoonacular API. 
-The map section enables the user to find local supermarkets nearby using the Open Street Maps API. 
-The search section enables a user to search for items individually, which will display the cheapest price for these items. These items have been web scraped  from Supermarket websites and stored in a SQL database in the backend. The camera in this section uses a plugin called Quagga, which enables the user to scan barcodes. 
-
-
-## [What Three Letters](https://what-three-letters.netlify.app/)
-<!-- <img width="600" alt="Screenshot 2024-02-01 at 12 51 22" src="https://github.com/JonathanBanerjee/JonathanBanerjee/assets/69357901/792d7930-a459-4ffe-97da-4c661f102ea3"> -->
-
-
-**Tech Used: Front-end / Back-end** :  React, SASS / Node.js
-
-**Repository:** [What Three Letters Repository](https://github.com/Gunnar50/what-three-letters)
-  
-**What it Does:** Teaches children how to read and spell 3 letter words. 
-
-**What It Demonstrates:** This was a group project built over an 8 hour hackathon. The wordlist is stored as an object in a JSON file, each object containing the word as well as an image. The application makes use of speech to text recognition, which enables a user to hear the words and letters audibly. This can be done either by entering a letter or clicking on the logo. The user also has the option to receive a maximum of 2 hints, where letters are removed using a split function. 
 
 ### DevOps Projects:
 
