@@ -69,13 +69,14 @@
 
 
 
-#### Outside of coding, I like to:
+<!-- #### Outside of coding, I like to:
 
 > - Play, follow and study football ⚽️ - Watford Supporter, AFC Camden and FPL Player.
 > - Meditate 🧘🏽‍♂️
 > - Read/study 📚 (Currently reading: A world without email by Cal Newport) 
 
 <a href="https://calnewport.com/a-world-without-email/"><img src="https://calnewport.com/wp-content/uploads/2021/01/email-cover-400px.jpg" height=200></a>
+--> 
 
 
 
