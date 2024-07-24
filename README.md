@@ -39,7 +39,7 @@
 
 ### Developer projects:
 
-- [Air Checker](airchecker.netlify.app) (My latest project)
+- [Air Checker](https://Airchecker.netlify.app) (My latest project)
 - [Tic-Tac-Toe](https://react-noughtsandcrosses.netlify.app)
 - [What Three Letters](https://what-three-letters.netlify.app/)
 - [FairWeather Application](https://fairweather.netlify.app)
