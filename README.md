@@ -16,9 +16,9 @@
 <code><img height="40" alt="Javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" alt="React" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png"></code>
 <code><img height="40" alt="Vite" src="https://vitejs.dev/logo-with-shadow.png"></code>
-<code><img height="40" alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
+<!--<code><img height="40" alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"></code>
 <code><img height="40" alt="CSS" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"></code>
-<code><img height="40" alt="SASS" src="https://sass-lang.com/assets/img/logos/logo.svg"></code>
+<code><img height="40" alt="SASS" src="https://sass-lang.com/assets/img/logos/logo.svg"></code> -->
 
 ### DevOps:
 <code><img height="40" alt="AWS" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg"></code>
@@ -30,13 +30,14 @@
  <code><img height="40" alt="Express" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code> -->
 <!-- <code><img height="40" alt="Linux" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code> -->
 
-
-<br>
+<div align="left">
+  <img src='https://www.thereactivedeveloper.com/assets/hero-me-dark.gif' alt='Jonathan' width='163'>
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanbanerjee&layout=compact&theme=dark)](https://github.com/jonathanbanerjee/github-readme-stats)
-<img align='left' src='https://www.thereactivedeveloper.com/assets/hero-me-dark.gif' alt='Jonathan' width='163'>
-<!-- 
 
+
+<!--
 ### Developer projects:
 
 - [Air Checker](https://Airchecker.netlify.app) (My latest project)
@@ -58,9 +59,9 @@
 - [Containerization of a Wordle Application](https://github.com/JonathanBanerjee/wordle)
 - [ELK Stack (Proof of concept)](https://github.com/JonathanBanerjee/aether)
 
-<!-- ### Tutorial Profiles -->
+ ### Tutorial Profiles -->
 
-<a href="https://www.khanacademy.org/profile/JonathanBanerjee/projects"><img src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white" height=25></a>
+<!-- <a href="https://www.khanacademy.org/profile/JonathanBanerjee/projects"><img src="https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white" height=25></a>
    <a href="https://www.freecodecamp.org/JonathanBanerjee"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" height=25></a>
    <a href="https://www.codewars.com/users/JonathanBanerjee"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" height=25></a>
     <a href="https://www.hackerrank.com/jonathanbanerjee"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" height=25></a> -->
