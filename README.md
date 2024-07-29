@@ -1,5 +1,8 @@
 ## Hi, I'm Jonathan, a Front-End JavaScript Developer (React, Redux, Vite) with DevOps experience. 
 
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1AC2F7&width=800&height=150&lines=A+Front-End+Developer++(React%2C+Vite%2C+AWS)+With+DevOps+Experience.)](https://git.io/typing-svg) -->
+
+
  - 🌎 I am an AWS Cloud and BCS Certified Practitioner.
  - 🎓 I am an Open University Computing and IT graduate.
 
