@@ -87,7 +87,4 @@
 
 
   
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=jonathanbanerjee&style=flat-square&color=blue" alt=""/>
-  </div>
-  
+
