@@ -36,7 +36,7 @@
 <!-- <code><img height="40" alt="Linux" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg"></code> -->
 
 <div align="left">
-  <img src='https://www.thereactivedeveloper.com/assets/hero-me-dark.gif' alt='Jonathan' width='163'>
+  <img src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNno2OGh0MDV1MWdjdTVsZjd0Nnd2Y2FqMGh4dGo3OG5taGFzeHA1biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif' alt='Jonathan' width='163'>
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonathanbanerjee&layout=compact&theme=dark)](https://github.com/jonathanbanerjee/github-readme-stats)
